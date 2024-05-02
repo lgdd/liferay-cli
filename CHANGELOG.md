@@ -1,5 +1,19 @@
 # Changelog
 
+## [3.1.0](https://github.com/lgdd/lfr-cli/compare/v3.0.0...v3.1.0) (2024-05-02)
+
+
+### Features
+
+* add config command ([45a932c](https://github.com/lgdd/lfr-cli/commit/45a932cdd579b3f0b1a34e8068a2e65524d4f263))
+* use github urls by default ([66281ea](https://github.com/lgdd/lfr-cli/commit/66281eaf43e1a806fe0ec9fd7c2fea2b34a26a98))
+
+
+### Bug Fixes
+
+* output printed twice when running 'lfr c cx' ([9857217](https://github.com/lgdd/lfr-cli/commit/9857217f20866b69148aaa88525674250f823916))
+* wrong github urls for portal workspaces ([#17](https://github.com/lgdd/lfr-cli/issues/17)) ([4ca0436](https://github.com/lgdd/lfr-cli/commit/4ca0436d45030f914be27be38b0b1b7524dad85b))
+
 ## [3.0.0](https://github.com/lgdd/lfr-cli/compare/v2.0.0...v3.0.0) (2024-04-28)
 
 
